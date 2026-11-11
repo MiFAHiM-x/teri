@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FAHIM WEB INJECTOR</string>
+    <string name="js_config_title">JavaScript Configuration</string>
+    <string name="edit_script">Edit</string>
+    <string name="save_script">Save Script</string>
+    <string name="reset_script">Reset to Default</string>
+    <string name="apply_javascript">⚡ APPLY JAVASCRIPT</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="reload">Reload</string>
+    <string name="home">Home</string>
+    <string name="script_saved">Script saved successfully</string>
+    <string name="script_reset">Script reset to default</string>
+    <string name="confirm_reset_title">Reset Script?</string>
+    <string name="confirm_reset_message">This will discard your current script and restore the default bookmarklet. Continue?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="page_loading">Page is still loading. Please wait…</string>
+    <string name="no_page">No webpage loaded yet.</string>
+    <string name="empty_script">JavaScript is empty. Please enter a script.</string>
+    <string name="js_success">JavaScript executed</string>
+    <string name="js_failed">JavaScript execution failed</string>
+    <string name="network_error">No internet connection</string>
+    <string name="load_error">Failed to load page</string>
+    <string name="retry">Retry</string>
+    <string name="developer">Developer: FAHIM</string>
+</resources>
